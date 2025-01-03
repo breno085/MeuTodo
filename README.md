@@ -1,0 +1,1 @@
+Projeto simples para criação de API com ASP.NET Core, Entity Framework e Sqlite
